@@ -29,7 +29,7 @@ This is a web based application developed for health related based website in in
 
    
 
-### About Us -![Screenshot (157)](https://user-images.githubusercontent.com/113416967/201460882-d8966c93-1c25-4ab1-b38b-c9445d74a798.png)
+### About Us -![Screenshot (3)](https://user-images.githubusercontent.com/116783650/209275935-3271c95d-82bd-4a51-af49-c9e747d319ed.png)
 
 
 
